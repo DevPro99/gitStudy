@@ -2,7 +2,7 @@
 
 
 
-- ###### **进入git 管理目录，初始化**
+- ## **进入git 管理目录，初始化**
 
   git init
 
@@ -43,6 +43,28 @@ git  reset --hard  "版本号"
 git reflog
 
 
+
+
+
+
+
+## 分支
+
+查看分支：
+
+git branch
+
+
+
+创建分支
+
+git branch  "分支名字"
+
+
+
+切换分支
+
+git checkout "切换到分支的名字"
 
 
 
